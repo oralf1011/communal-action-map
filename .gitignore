@@ -1,2 +1,12 @@
+# .gitignore
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Other common patterns to ignore
+*.log
+*.swp
+*.bak
+.DS_Store
 *.sqlite3
